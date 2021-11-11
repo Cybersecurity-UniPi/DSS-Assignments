@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/20180627_215135.jpg</description>
+            <Point id="2">
+                <coordinates>-35.1875,-5.864999999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/20180630_223604.jpg</description>
+            <Point id="4">
+                <coordinates>-47.14888888888889,-23.006666666666668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/20190421_181630.jpg</description>
+            <Point id="6">
+                <coordinates>10.317222222222222,43.727222222222224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/20191209_114352.jpg</description>
+            <Point id="8">
+                <coordinates>-0.07555555555555556,51.507777777777775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/20191209_150524.jpg</description>
+            <Point id="10">
+                <coordinates>-0.009722222222222222,51.483333333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/directory2/20180304_165749.jpg</description>
+            <Point id="12">
+                <coordinates>10.396666666666667,43.72222222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/directory2/20180325_161127.jpg</description>
+            <Point id="14">
+                <coordinates>10.531666666666668,43.73444444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <description>/home/jackson/Desktop/DSS/DSS-Assignments/2/mount/directory1/directory2/20180402_175126.jpg</description>
+            <Point id="16">
+                <coordinates>11.879444444444445,45.411944444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
