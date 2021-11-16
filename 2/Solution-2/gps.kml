@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Folder>
+		<name>Placemarks</name>
+		<description>A list of placemarks</description>
+		<Placemark>
+			<name>20180627_215135.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>-35.1875,-5.865</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20180630_223604.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>-47.14889,-23.00667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20190421_181630.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>10.31722,43.72722</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20191209_114352.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>-0.07556,51.50778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20191209_150524.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>-0.00972,51.48333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20180304_165749.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>10.39667,43.72222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20180325_161127.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>10.53167,43.73444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20180402_175126.jpg</name>
+			<description>A secret place</description>
+			<Point>
+				<coordinates>11.87944,45.41194</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</kml>
